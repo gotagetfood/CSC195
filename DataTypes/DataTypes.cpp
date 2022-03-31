@@ -21,6 +21,8 @@ int main() {
 
     int ages[4];
 
+    cout << "Git";
+
     cout << "Enter Name: "
     cin >> name;
     cout << name << endl;
